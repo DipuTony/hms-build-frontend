@@ -1,0 +1,1 @@
+import{j as r}from"./ui-BM_Qdf4X.js";import"./vendor-IVAbD_Ia.js";import{N as i}from"./NavBarIndex-By_Srw2q.js";import"./router-DmxMsUT6.js";import"./index-B6zYgTVN.js";function s(){return r.jsxs(r.Fragment,{children:[r.jsx(i,{title:"Admin Dashboard"}),r.jsx("div",{children:"AdminDashboard"})]})}export{s as default};
